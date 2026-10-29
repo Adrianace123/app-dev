@@ -7,12 +7,12 @@ The story follows **Tsunayoshi Sawada** a clumsy and insecure middle school boy 
 
 ### Vongola Famiglia (10th Generation Guardians)
 - [x] Tsunayoshi Sawada (Sky Boss)
-- [ ] Hayato Gokudera (Storm Guardian)
-- [ ] Takeshi Yamamoto (Rain Guardian)
-- [ ] Ryohei Sasagawa (Sun Guardian)
-- [ ] Kyoya Hibari (Cloud Guardian)
-- [ ] Lambo (Lightning Guardian)
-- [ ] Chrome Dokuro / Mukuro Rokudo (Mist Guardian)
+- [x] Hayato Gokudera (Storm Guardian)
+- [x] Takeshi Yamamoto (Rain Guardian)
+- [x] Ryohei Sasagawa (Sun Guardian)
+- [x] Kyoya Hibari (Cloud Guardian)
+- [x] Lambo (Lightning Guardian)
+- [x] Chrome Dokuro / Mukuro Rokudo (Mist Guardian)
 
 ### Summary Table
 
