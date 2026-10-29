@@ -14,7 +14,7 @@ The story follows **Tsunayoshi Sawada** a clumsy and insecure middle school boy 
 - [x] Lambo (Lightning Guardian)
 - [x] Chrome Dokuro / Mukuro Rokudo (Mist Guardian)
 
-### Flame Nature Table
+### Flame Nature/Weapons Table
 
 | Character | Flame Attribute | Weapon |
 | :--- | :--- | :--- |
